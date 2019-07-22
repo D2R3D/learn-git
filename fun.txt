@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always; 
-This is pretty coojl, make a change run git push
+This is pretty cool, make a change, git add . then get commit-m "message"
+Git push origin master
